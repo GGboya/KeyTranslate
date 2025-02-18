@@ -1,4 +1,3 @@
-```markdown
 # KeyTranslate
 
 > 该项目帮助你通过快捷键一键翻译内容为英文。
@@ -35,4 +34,3 @@
 ## License
 
 此项目遵循 MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件。
-```
